@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maxlikhachev/Documents/Labs/C#/BitString/BitString/BitString/BitString.csproj",
+      "projectUniqueName": "/Users/maxlikhachev/Documents/Labs/C#/BitString/BitString/BitString.csproj",
       "projectName": "BitString",
-      "projectPath": "/Users/maxlikhachev/Documents/Labs/C#/BitString/BitString/BitString/BitString.csproj",
+      "projectPath": "/Users/maxlikhachev/Documents/Labs/C#/BitString/BitString/BitString.csproj",
       "packagesPath": "/Users/maxlikhachev/.nuget/packages/",
-      "outputPath": "/Users/maxlikhachev/Documents/Labs/C#/BitString/BitString/BitString/obj",
+      "outputPath": "/Users/maxlikhachev/Documents/Labs/C#/BitString/BitString/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
